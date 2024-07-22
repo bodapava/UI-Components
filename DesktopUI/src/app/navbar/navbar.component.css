@@ -1,0 +1,70 @@
+/* You can add global styles to this file, and also import other style files */
+.rowadjust {
+  background-color: white;
+  height: auto;
+  border-radius: 10px;
+  width: 50rem;
+  margin: auto;
+  /* margin-left: 15rem; */
+}
+.columnstyle {
+  border: black;
+  /* border-width: thin; */
+  /* border: black; */
+  /* border-right-color: aliceblue; */
+  border-right-style: double;
+}
+.matdate {
+  height: 4rem;
+  margin-top: 1rem;
+  margin-left: 0.5rem;
+}
+
+.locationstyle {
+  margin-left: 1rem;
+  margin-top: 1rem;
+}
+
+.margin-top {
+  margin-top: 1rem;
+}
+.width {
+  width: 7.5rem;
+}
+.selectstyle {
+  width: 14rem;
+  padding-left: 2rem;
+  height: 3rem;
+  margin-top: 0.5rem;
+}
+.text-center {
+  display: flex;
+  justify-content: center;
+  /* margin: 0; */
+}
+.margin-left {
+  margin-left: 0.3rem;
+}
+.margin-top1 {
+  margin-top: 0.2rem;
+}
+.font-style {
+  text-align: center;
+  /* color: green; */
+  /* margin-top: 1rem; */
+  margin-top: 6rem;
+  font-size: xx-large;
+  display: block;
+}
+.text-center1 {
+  display: flex;
+  justify-content: center;
+  /* margin: 0; */
+}
+.body-img {
+  background-image: url("https://mdbootstrap.com/img/Photos/Others/images/76.jpg");
+  max-width: 100%;
+  height: 100vh;
+  background-size: cover;
+  background-position: center;
+}
